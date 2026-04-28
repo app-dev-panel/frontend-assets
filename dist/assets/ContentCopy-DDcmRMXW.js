@@ -1,0 +1,1 @@
+import{M as e}from"./createSimplePaletteValueFilter-617d6PKJ.js";import{l as t}from"./IconButton-DLp51kVK.js";var n=t((0,e().jsx)(`path`,{d:`M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2m0 16H8V7h11z`}),`ContentCopy`);export{n as t};

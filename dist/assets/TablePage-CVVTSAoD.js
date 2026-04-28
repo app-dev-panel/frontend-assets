@@ -1,0 +1,1 @@
+import{t as e}from"./TablePage-Kg1IGt4s.js";export{e as TablePage};
