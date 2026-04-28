@@ -1,0 +1,1 @@
+import{$ as e,M as t,it as n}from"./createSimplePaletteValueFilter-617d6PKJ.js";var r=n(e()),i=t(),a=r.createContext();function o({value:e,...t}){return(0,i.jsx)(a.Provider,{value:e??!0,...t})}var s=()=>r.useContext(a)??!1;export{s as n,o as t};

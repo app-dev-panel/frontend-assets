@@ -1,0 +1,1 @@
+function e(e,t){let n=e.toLowerCase(),r=t.toLowerCase();if(r.length===0)return{score:0,indices:[]};let i=[],a=0;for(let e=0;e<n.length&&a<r.length;e++)n[e]===r[a]&&(i.push(e),a++);if(a<r.length)return null;let o=i[0];for(let e=1;e<i.length;e++){let t=i[e]-i[e-1]-1;o+=t*2}return n.includes(r)&&(o-=r.length*3),{score:o,indices:i}}export{e as t};

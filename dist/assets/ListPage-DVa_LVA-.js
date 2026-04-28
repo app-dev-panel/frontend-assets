@@ -1,0 +1,1 @@
+import{M as e}from"./createSimplePaletteValueFilter-617d6PKJ.js";import{t}from"./Box-BVKVk2q2.js";import{t as n}from"./DebugEntryList-5QHkyceM.js";var r=e(),i=()=>(0,r.jsx)(t,{sx:{p:{xs:1.5,sm:3.5}},children:(0,r.jsx)(n,{})});export{i as ListPage};
