@@ -1,0 +1,1 @@
+var e=e=>typeof e==`string`?e.replace(/([#:][0-9a-z_-]+)$/i,``):``;function t(e){return e.slice(1).slice(0,2).filter(Boolean).map(Number)}var n=n=>{let r=e(n),i=n.match(/[#:]([0-9]+)(?:-([0-9]+))?$/i);return i&&i.length?r+`#L`+t(i).join(`-`):r},r=e=>{let n=e.match(/#?L([0-9]+)(?:-([0-9]+))?$/);if(n&&n.length)return t(n)},i=e=>e.split(`/`).pop()??e;export{r as i,n,i as r,e as t};

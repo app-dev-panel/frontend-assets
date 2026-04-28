@@ -1,0 +1,1 @@
+import{M as e}from"./createSimplePaletteValueFilter-617d6PKJ.js";import{t}from"./CircularProgress-WuwnWMRg.js";var n=e(),r=({indicatorSize:e=40})=>(0,n.jsx)(t,{size:e,sx:{position:`absolute`,top:`50%`,left:`50%`,marginTop:`${-e/2}px`,marginLeft:`${-e/2}px`}});export{r as t};

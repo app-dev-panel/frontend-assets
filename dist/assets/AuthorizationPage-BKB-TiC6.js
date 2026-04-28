@@ -1,0 +1,1 @@
+import{t as e}from"./AuthorizationPage-DjM_uajf.js";export{e as AuthorizationPage};

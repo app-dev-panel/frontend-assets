@@ -1,0 +1,1 @@
+var e=[`emergency`,`alert`,`critical`,`error`,`warning`,`notice`,`info`,`debug`],t={errors:[`emergency`,`alert`,`critical`,`error`],warnings:[`warning`,`notice`],info:[`info`,`debug`]},n=[`info`,`warnings`,`errors`];function r(t){return e.includes(t)}function i(e,t){if(!e)return 0;let n=0;for(let r of t)n+=e[r]??0;return n}export{i,n,r,t};

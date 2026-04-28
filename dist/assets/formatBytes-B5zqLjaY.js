@@ -1,0 +1,1 @@
+function e(e,t=2){if(e===0)return`0 B`;let n=1024,r=[`B`,`KB`,`MB`,`GB`,`TB`,`PB`,`EB`,`ZB`,`YB`],i=Math.floor(Math.log(e)/Math.log(n));return parseFloat((e/n**+i).toFixed(t))+` `+r[i]}export{e as t};

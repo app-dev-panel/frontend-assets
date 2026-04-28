@@ -1,0 +1,1 @@
+var e=e=>{switch(!0){case Array.isArray(e)&&e.length===2:return e.join(`::`)+`()`;case typeof e==`string`:return e;default:return JSON.stringify(e)}};export{e as t};

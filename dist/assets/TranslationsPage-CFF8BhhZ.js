@@ -1,0 +1,1 @@
+import{t as e}from"./TranslationsPage-B2We2vcm.js";export{e as TranslationsPage};
